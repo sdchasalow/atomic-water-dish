@@ -6,3 +6,4 @@ For Coursera Data Sciences Specialization: Free atomic water dish with every sig
 
 * item 1
 * item 2
+* item 3
